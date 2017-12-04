@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OAAO;EACJ,QAAQ,EAAC,IAAI;;ACChB,OAAO;EAEF,SAAI,EAAC,IAAI;EACT,WAAM,EAAC,IAAI",
+"sources": ["../../../sass/templates/subdir/nested_subdir/_nested_partial.sass","../../../sass/templates/subdir/subdir.sass"],
+"names": [],
+"file": "subdir.css"
+}

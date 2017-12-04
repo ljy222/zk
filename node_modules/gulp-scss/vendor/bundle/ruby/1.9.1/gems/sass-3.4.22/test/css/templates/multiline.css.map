@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;OAAM;EAEJ,MAAM,EAAE,IAAI;EACZ;aAAG;IACD,KAAK,EAAE,KAAK;IAGV;;;uBAAI;MACF,KAAK,EAAE,IAAI;;AAKjB;;;;;;;;eAAW;EAIN,WAAM,EAAC,IAAI;EACb,YAAY,EAAC,GAAG;EAChB,OAAO,EAAC,KAAK",
+"sources": ["../../sass/templates/multiline.sass"],
+"names": [],
+"file": "multiline.css"
+}

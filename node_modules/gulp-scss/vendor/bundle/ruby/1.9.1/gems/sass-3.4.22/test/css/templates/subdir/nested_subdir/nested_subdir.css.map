@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,GAAG;EACA,KAAK,EAAC,KAAK",
+"sources": ["../../../../sass/templates/subdir/nested_subdir/nested_subdir.sass"],
+"names": [],
+"file": "nested_subdir.css"
+}

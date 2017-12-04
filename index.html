@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="app/content/css/style.css">
+    <link rel="stylesheet" type="text/css" href="app/content/fonts2/iconfont.css">
+    <title>Document</title>
+</head>
+<body ng-app="app">
+    <div class="wrap">
+        <header>
+            <a href="#"></a>
+            <a href="#">公司</a>
+            <a href="#"> <i class="icon iconfont icon-fangdajing"></i></a>
+        </header>
+        <ul class="list">
+            <li>融资<i class="icon iconfont icon-angle-down"></i></li>
+            <li>规模<i class="icon iconfont icon-angle-down"></i></li>
+            <li>行业<i class="icon iconfont icon-angle-down"></i></li>
+        </ul>
+        <section>
+            <div class="box" ng-controller="mytext">
+            <dl ng-repeat="key in num">
+                <dt><img ng-src="{{key.img}}" alt="" /></dt>
+                <dd>
+                    <h3>{{key.hh3}}</h3>
+                    <h4>{{key.hh4}}</h4>
+                    <h5>{{key.hh5}}</h5>
+                    <h6>{{key.hh6}}</h6>
+                </dd>
+            </dl>
+        </div>
+        </section>
+        <footer>
+            <ul>
+                <li><i class="icon iconfont icon-tian"></i><a href="#">职位</a></li>
+                <li><i class="icon iconfont icon-27"></i><a href="#">公司</a></li>
+                <li><i class="icon iconfont icon-dingwei"></i><a href="#">我的</a></li>
+                <li><i class="icon iconfont icon-wode"></i><a href="#">消息</a></li>
+            </ul>
+        </footer>
+    </div>
+    <script src="app/js/angular.min.js"></script>
+    <script src="app/controller/text.js"></script>
+</body>
+</html>

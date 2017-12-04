@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,CAAC;ECED,CAAC,EAAE,CAAC",
+"sources": ["../../sass/templates/_imported_content.sass","../../sass/templates/import_content.sass"],
+"names": [],
+"file": "import_content.css"
+}

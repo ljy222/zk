@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AAKQ,oBAAS;AAHjB,IAAI;EACF,CAAC,EAAE,CAAC;;ACDN,IAAI;EACF,CAAC,EAAE,CAAC",
+"sources": ["../../sass/templates/import_charset_ibm866.sass","../../sass/templates/_imported_charset_utf8.sass"],
+"names": [],
+"file": "import_charset_ibm866.css"
+}
